@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "fb7920d00abdd7f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94d8d91f451449f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0019422bb5c408a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "237da07523da2c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff1de3cc25bd7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "019b6796d8556610",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef598974bb259793",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "defcb4f3d5a1989e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bbeecd069703c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9236d707e964ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd7363fcb1e6c782",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Landing Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Landing Page"
+            }
+          },
+          {
+            "id": "d318112b9b37c45b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Landing Page.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Landing Page"
+            }
+          },
+          {
+            "id": "5743fa0ff018c198",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4b26d0c4c273133",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Landing Page.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Landing Page"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "f0019422bb5c408a",
+  "lastOpenFiles": [
+    "Documentation/Documentation Hub.md",
+    "Landing Page.md",
+    "Documentation/Design resources/Design Hub.md",
+    "Documentation/Main project Kanban.md",
+    "Documentation/README.md",
+    "CPS240projUML.jpg",
+    "Documentation/Code specific resources/Backend/Team Ranking Formula.md",
+    "Documentation/Design resources/Git Tutorial.md",
+    "SourceCode/test.txt",
+    "Documentation/Code specific resources/Backend/WebScraping project.md",
+    "Documentation/Code specific resources/Backend",
+    "Documentation/Code specific resources/GUI",
+    "Documentation/Design resources",
+    "Documentation/Code specific resources",
+    "Documentation",
+    "SourceCode"
+  ]
+}
