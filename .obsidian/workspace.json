@@ -11,10 +11,14 @@
             "id": "f0019422bb5c408a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Storyboarding/Story/Main Story Document.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Main Story Document"
             }
           }
         ]
@@ -164,19 +168,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "019b6796d8556610",
+  "active": "f0019422bb5c408a",
   "lastOpenFiles": [
+    "Storyboarding/Storyboarding Hub.md",
+    "Storyboarding/Story/Main Story Document.md",
+    "Storyboarding/Levels",
+    "Storyboarding/Groups",
+    "Storyboarding/Story",
+    "Storyboarding",
     "GravPlatformer/ProjectSettings/ShaderGraphSettings.asset",
     "GravPlatformer/ProjectSettings/SceneTemplateSettings.json",
     "GravPlatformer/ProjectSettings/URPProjectSettings.asset",
     "GravPlatformer/ProjectSettings/ProjectSettings.asset",
     "GravPlatformer/ProjectSettings/PackageManagerSettings.asset",
     "GravPlatformer/ProjectSettings/EditorSettings.asset",
-    "GravPlatformer/ProjectSettings/ProjectVersion.txt",
-    "GravPlatformer/ProjectSettings/UnityConnectSettings.asset",
-    "GravPlatformer/ProjectSettings/XRSettings.asset",
-    "GravPlatformer/ProjectSettings/VFXManager.asset",
-    "GravPlatformer/ProjectSettings/VersionControlSettings.asset",
     "Placeholdermenubox.png",
     "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation_selected.png",
     "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation_collapsed.png",
@@ -210,7 +215,6 @@
     "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-save-script.md",
     "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-return-unity.md",
     "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-regen-node-library.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-open-state-menu.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-open-project-window.md"
+    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-open-state-menu.md"
   ]
 }
