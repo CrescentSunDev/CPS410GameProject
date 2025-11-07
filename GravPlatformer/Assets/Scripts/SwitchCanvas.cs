@@ -4,14 +4,14 @@ public class SwitchCanvas : MonoBehaviour
 {
     public GameObject canvas1; // Assign in Inspector
     public GameObject canvas2; // Assign in Inspector
+    public bool startOn;
 
-    public void ShowCanvas1()
+    public void Start()
     {
-        canvas1.SetActive(true);
-        canvas2.SetActive(false);
+        canvas1.SetActive(startOn);
     }
 
-    public void ShowCanvas2()
+    public void ShowCanvas()
     {
         canvas1.SetActive(false);
         canvas2.SetActive(true);
