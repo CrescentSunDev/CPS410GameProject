@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\switchcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchScene.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchScene.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwitchScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:30:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwitchCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchCanvas.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwitchCanvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:17:10.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
