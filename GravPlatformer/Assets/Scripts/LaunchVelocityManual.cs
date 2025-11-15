@@ -1,10 +1,13 @@
 using UnityEngine;
 
-public class LaunchVelocity : MonoBehaviour
+public class LaunchVelocityManual : MonoBehaviour
 {
-    // ... [Header and variables remain the same] ...
-    public float launchSpeed = 5f;
-    public float launchAngle = 45f;
+    // values for speed, angle, and angular speed
+    public float launchSpeed = 0f;
+    [Tooltip("Measured CC starting from +X direction.")]
+    public float launchAngle = 0f;
+    [Tooltip("Deg/s CC")]
+    public float angularSpeed = 0f;
     private Rigidbody2D rb;
 
     void Awake()
@@ -22,11 +25,11 @@ public class LaunchVelocity : MonoBehaviour
 
         Vector2 initialVelocity = new Vector2(velocityX, velocityY);
 
-        // 4. Apply the calculated velocity directly to the Rigidbody.
+        // Apply the calculated velocity directly to the Rigidbody.
         if (rb != null)
         {
-            // --- FIX APPLIED HERE ---
             rb.linearVelocity = initialVelocity;
+            rb.angularVelocity = angularSpeed;
         }
         else
         {

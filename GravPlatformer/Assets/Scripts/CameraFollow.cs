@@ -6,13 +6,13 @@ public class CameraFollow : MonoBehaviour
     public Transform target;
 
     // How quickly the camera catches up to the target
-    public float smoothSpeed = 0.05f;
+    public float smoothSpeed = 0.5f;
 
     // The offset distance between the camera and the target
-    public Vector3 offset;
+    public Vector3 offset = new Vector3(0f, 0f, -1f);
 
     // Called once per frame, after all Update functions have been called.
-    void LateUpdate()
+    void FixedUpdate()
     {
         // 1. Calculate the desired position
         // This is the target's position plus the defined offset.
