@@ -169,7 +169,6 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
   "active": "f0019422bb5c408a",
   "lastOpenFiles": [
     "Storyboarding/Storyboarding Hub.md",
@@ -194,21 +193,6 @@
     "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_Thickness.png",
     "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_Normal.png",
     "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_MaskMap.png",
-=======
-  "active": "30f696efc6a24627",
-  "lastOpenFiles": [
-    "GravPlatformer/Library/BurstCache/JIT/BurstCacheManifest.cm",
-    "GravPlatformer/Logs/shadercompiler-AssetImportWorker1-0.log",
-    "GravPlatformer/Logs/AssetImportWorker0.log",
-    "GravPlatformer/Logs/shadercompiler-AssetImportWorker0-0.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-11.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-14.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-9.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-4.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-6.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-7.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-0.log",
-    "GravPlatformer/Assets/TextMesh Pro/Sprites/EmojiOne.png",
     "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png",
     "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png",
     "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg",
@@ -218,7 +202,6 @@
     "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg",
     "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg",
     "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg",
->>>>>>> Joseph_Test
     "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-note-package.md",
     "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-system-ports.md",
     "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-system-output-trigger-port.md",
