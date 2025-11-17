@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8d1d8e874155b5c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Storyboarding/Level One Sketch.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Level One Sketch"
-            }
-          },
-          {
             "id": "b7c67303fc62f03b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "Storyboarding/Level One Sketch.md"
+                "currentVersion": "1.10.3"
               },
-              "icon": "excalidraw-icon",
-              "title": "Level One Sketch"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +173,17 @@
   },
   "active": "b7c67303fc62f03b",
   "lastOpenFiles": [
-    "GravPlatformer/Temp/UnityTempFile-b3fda420360022746bbf4989c8dbcd01",
-    "GravPlatformer/Temp/ADB-Refresh1565a779f57ed4c4a9aefe8189fe5dae",
+    "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs.meta",
+    "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs",
+    "GravPlatformer/Assets/Scripts/RocketControl.cs.meta",
+    "GravPlatformer/Assets/Scripts/RocketControl.cs",
+    "GravPlatformer/Assets/Scripts/PlayerMovement.cs.meta",
+    "GravPlatformer/Assets/Scripts/PlayerMovement.cs",
+    "GravPlatformer/Assets/Scripts/LaunchVelocityRandom.cs.meta",
+    "GravPlatformer/Assets/Scripts/LaunchVelocityRandom.cs",
+    "GravPlatformer/Assets/Scripts/LaunchVelocityManual.cs.meta",
+    "GravPlatformer/Assets/Prefabs/RocketPlaceholder1.prefab.meta",
+    "GravPlatformer/Assets/Prefabs/RocketPlaceholder1.prefab",
     "Storyboarding/Level One Sketch.md"
   ]
 }
