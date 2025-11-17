@@ -1,41 +1,52 @@
 {
   "main": {
-    "id": "fb7920d00abdd7f1",
+    "id": "7f0366029fefd438",
     "type": "split",
     "children": [
       {
-        "id": "9a6e80873c6aa3c8",
+        "id": "c4e6aabfcc789cae",
         "type": "tabs",
         "children": [
           {
-            "id": "30f696efc6a24627",
+            "id": "d8d1d8e874155b5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Storyboarding/Story/Main Story Document.md",
-                "mode": "source",
-                "source": false
+                "file": "Storyboarding/Level One Sketch.md"
               },
-              "icon": "lucide-file",
-              "title": "Main Story Document"
+              "icon": "excalidraw-icon",
+              "title": "Level One Sketch"
+            }
+          },
+          {
+            "id": "b7c67303fc62f03b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Storyboarding/Level One Sketch.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Level One Sketch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "237da07523da2c2d",
+    "id": "1ec8500085adfc96",
     "type": "split",
     "children": [
       {
-        "id": "bff1de3cc25bd7df",
+        "id": "c854ca3dc8b8aff1",
         "type": "tabs",
         "children": [
           {
-            "id": "019b6796d8556610",
+            "id": "df365a44a2b4f1ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +59,7 @@
             }
           },
           {
-            "id": "ef598974bb259793",
+            "id": "0cd2c70bb3fd65be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +76,7 @@
             }
           },
           {
-            "id": "defcb4f3d5a1989e",
+            "id": "0acd8adc55ae5b94",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +89,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "5bbeecd069703c48",
+    "id": "645354b8593ca8a0",
     "type": "split",
     "children": [
       {
-        "id": "b9236d707e964ed8",
+        "id": "f345c2137bf3d47d",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7363fcb1e6c782",
+            "id": "aa5aa7b1e28dac92",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Storyboarding/Level One Sketch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,46 +115,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Landing Page"
+              "title": "Backlinks for Level One Sketch"
             }
           },
           {
-            "id": "d318112b9b37c45b",
+            "id": "45baa047923eca4d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Storyboarding/Level One Sketch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Landing Page"
+              "title": "Outgoing links from Level One Sketch"
             }
           },
           {
-            "id": "5743fa0ff018c198",
+            "id": "841504e437332487",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e4b26d0c4c273133",
+            "id": "316fc60ddc0cd1e2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+                "file": "Storyboarding/Level One Sketch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Landing Page"
+              "title": "Outline of Level One Sketch"
             }
           }
         ]
@@ -156,96 +171,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false
     }
   },
-<<<<<<< HEAD
-  "active": "f0019422bb5c408a",
+  "active": "b7c67303fc62f03b",
   "lastOpenFiles": [
-    "Storyboarding/Storyboarding Hub.md",
-    "Storyboarding/Story/Main Story Document.md",
-    "Storyboarding/Levels",
-    "Storyboarding/Groups",
-    "Storyboarding/Story",
-    "Storyboarding",
-    "GravPlatformer/ProjectSettings/ShaderGraphSettings.asset",
-    "GravPlatformer/ProjectSettings/SceneTemplateSettings.json",
-    "GravPlatformer/ProjectSettings/URPProjectSettings.asset",
-    "GravPlatformer/ProjectSettings/ProjectSettings.asset",
-    "GravPlatformer/ProjectSettings/PackageManagerSettings.asset",
-    "GravPlatformer/ProjectSettings/EditorSettings.asset",
-    "Placeholdermenubox.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation_selected.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation_collapsed.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation_selected.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation_collapsed.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation.png",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_Thickness.png",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_Normal.png",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_MaskMap.png",
-=======
-  "active": "30f696efc6a24627",
-  "lastOpenFiles": [
-    "GravPlatformer/Library/BurstCache/JIT/BurstCacheManifest.cm",
-    "GravPlatformer/Logs/shadercompiler-AssetImportWorker1-0.log",
-    "GravPlatformer/Logs/AssetImportWorker0.log",
-    "GravPlatformer/Logs/shadercompiler-AssetImportWorker0-0.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-11.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-14.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-9.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-4.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-6.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-7.log",
-    "GravPlatformer/Logs/shadercompiler-UnityShaderCompiler.exe-0.log",
-    "GravPlatformer/Assets/TextMesh Pro/Sprites/EmojiOne.png",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg",
->>>>>>> Joseph_Test
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-note-package.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-system-ports.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-system-output-trigger-port.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-action-change.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-manager/nodes-input-output-trigger.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-manager/nodes-note-manual.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-events/vs-tasks-note-end.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-manager/nodes-desc-end.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-c-nodes/vs-tasks-note-end.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-c-nodes/vs-open-graph-w-node.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-events/vs-right-click-project.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-c-nodes/vs-ff-add-node.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-mip-bias-sample-mode-table.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-mip-mode-table.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-rgba-output-table.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-fragment-lod.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-errors.md",
-    "GravPlatformer/Library/PackageCache/com.unity.2d.psdimporter@0adcab25a8fd/Samples~/PSDImporterSamples/PSDImporterCustomPacker/README.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-with-graph-open-ff.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-visual-scripting-window.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-return-unity.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-save-script.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-regen-node-library.md",
-
-
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-open-state-menu.md",
-
-
+    "GravPlatformer/Temp/UnityTempFile-b3fda420360022746bbf4989c8dbcd01",
+    "GravPlatformer/Temp/ADB-Refresh1565a779f57ed4c4a9aefe8189fe5dae",
+    "Storyboarding/Level One Sketch.md"
   ]
 }
