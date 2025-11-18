@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovementBACKUP : MonoBehaviour
 {
     public Rigidbody2D rb;
     bool isFacingRight = true;
@@ -146,7 +146,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (wallJumpTimer > 0f)
         {
-            if(!isTouchingWall)
+            if (!isTouchingWall)
             {
                 wallJumpTimer = 0f;
             }
