@@ -18,6 +18,9 @@ public class Collectible : MonoBehaviour
 
             // destroy object
             Destroy(gameObject);
+
+            ScoreManager.instance.AddPoints(collectibleValue);
+
         }
     }
 }

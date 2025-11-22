@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
     bool isFacingRight = true;
+    public ParticleSystem smokeFX;
 
     [Header("Movement")]
     public float moveSpeed = 5f;
@@ -70,6 +71,7 @@ public class PlayerMovement : MonoBehaviour
         if (context.performed && jumpsRemaining > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            JumpFX();
 
             // do not consume jump if player is wall sliding (intended for double jump)
             // ((may break and allow for infinite wall ascension if wall jumping is changed))
@@ -91,6 +93,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isWallJumping = true;
             rb.linearVelocity = new Vector2(wallJumpDirection * wallJumpPower.x, wallJumpPower.y);
+            JumpFX();
             wallJumpTimer = 0;
 
             // flip character
@@ -104,6 +107,12 @@ public class PlayerMovement : MonoBehaviour
 
             Invoke(nameof(CancelWallJump), wallJumpTime + 0.1f);
         }
+    }
+
+    private void JumpFX()
+    {
+        smokeFX.Play();
+
     }
 
     private void Gravity()
@@ -194,6 +203,12 @@ public class PlayerMovement : MonoBehaviour
             Vector3 ls = transform.localScale;
             ls.x *= -1f;
             transform.localScale = ls;
+
+            // play smoke effects when grounded and turning
+            if(isGrounded)
+            {
+                smokeFX.Play();
+            }
         }
     }
 
