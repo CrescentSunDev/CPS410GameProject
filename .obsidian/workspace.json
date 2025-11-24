@@ -1,24 +1,34 @@
 {
   "main": {
-    "id": "fb7920d00abdd7f1",
+<<<<<<< HEAD
+    "id": "7f0366029fefd438",
     "type": "split",
     "children": [
       {
-        "id": "9a6e80873c6aa3c8",
+        "id": "c4e6aabfcc789cae",
         "type": "tabs",
         "children": [
           {
-            "id": "30f696efc6a24627",
+            "id": "b7c67303fc62f03b",
+=======
+    "id": "b244ad93c2d832dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a03a479d812663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4f970ede674891",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Storyboarding/Story/Main Story Document.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "Main Story Document"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -27,15 +37,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "237da07523da2c2d",
+<<<<<<< HEAD
+    "id": "1ec8500085adfc96",
     "type": "split",
     "children": [
       {
-        "id": "bff1de3cc25bd7df",
+        "id": "c854ca3dc8b8aff1",
         "type": "tabs",
         "children": [
           {
-            "id": "019b6796d8556610",
+            "id": "df365a44a2b4f1ea",
+=======
+    "id": "77eaf1ca9e3ebf0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b60536d8eb0b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7a8949fb096b24",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +70,11 @@
             }
           },
           {
-            "id": "ef598974bb259793",
+<<<<<<< HEAD
+            "id": "0cd2c70bb3fd65be",
+=======
+            "id": "bc476566bbae5c0f",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +91,11 @@
             }
           },
           {
-            "id": "defcb4f3d5a1989e",
+<<<<<<< HEAD
+            "id": "0acd8adc55ae5b94",
+=======
+            "id": "df39a1d6cc0fa93e",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +108,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "5bbeecd069703c48",
+<<<<<<< HEAD
+    "id": "645354b8593ca8a0",
     "type": "split",
     "children": [
       {
-        "id": "b9236d707e964ed8",
+        "id": "f345c2137bf3d47d",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7363fcb1e6c782",
+            "id": "aa5aa7b1e28dac92",
+=======
+    "id": "d12318f8b977ee37",
+    "type": "split",
+    "children": [
+      {
+        "id": "226aa065a3e48e1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b51afe38ada34d",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Landing Page.md",
+<<<<<<< HEAD
+                "file": "Storyboarding/Level One Sketch.md",
+=======
+                "file": "Storyboarding/Story/Main Story Document.md",
+>>>>>>> Joseph_test
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,46 +150,83 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Landing Page"
+<<<<<<< HEAD
+              "title": "Backlinks for Level One Sketch"
             }
           },
           {
-            "id": "d318112b9b37c45b",
+            "id": "45baa047923eca4d",
+=======
+              "title": "Backlinks for Main Story Document"
+            }
+          },
+          {
+            "id": "f6cbcd19f872fffd",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Landing Page.md",
+<<<<<<< HEAD
+                "file": "Storyboarding/Level One Sketch.md",
+=======
+                "file": "Storyboarding/Story/Main Story Document.md",
+>>>>>>> Joseph_test
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Landing Page"
+<<<<<<< HEAD
+              "title": "Outgoing links from Level One Sketch"
             }
           },
           {
-            "id": "5743fa0ff018c198",
+            "id": "841504e437332487",
+=======
+              "title": "Outgoing links from Main Story Document"
+            }
+          },
+          {
+            "id": "358dc858a4536f65",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e4b26d0c4c273133",
+<<<<<<< HEAD
+            "id": "316fc60ddc0cd1e2",
+=======
+            "id": "95f50fcf9ef94a35",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md"
+<<<<<<< HEAD
+                "file": "Storyboarding/Level One Sketch.md",
+=======
+                "file": "Storyboarding/Story/Main Story Document.md",
+>>>>>>> Joseph_test
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Landing Page"
+<<<<<<< HEAD
+              "title": "Outline of Level One Sketch"
+=======
+              "title": "Outline of Main Story Document"
+>>>>>>> Joseph_test
             }
           }
         ]
@@ -156,79 +238,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "f0019422bb5c408a",
+<<<<<<< HEAD
+  "active": "b7c67303fc62f03b",
   "lastOpenFiles": [
-    "Storyboarding/Storyboarding Hub.md",
-    "Storyboarding/Story/Main Story Document.md",
-    "Storyboarding/Levels",
-    "Storyboarding/Groups",
-    "Storyboarding/Story",
-    "Storyboarding",
-    "GravPlatformer/ProjectSettings/ShaderGraphSettings.asset",
-    "GravPlatformer/ProjectSettings/SceneTemplateSettings.json",
-    "GravPlatformer/ProjectSettings/URPProjectSettings.asset",
-    "GravPlatformer/ProjectSettings/ProjectSettings.asset",
-    "GravPlatformer/ProjectSettings/PackageManagerSettings.asset",
-    "GravPlatformer/ProjectSettings/EditorSettings.asset",
-    "Placeholdermenubox.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation_selected.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation_collapsed.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/light/timeline_annotation.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation_selected.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation_collapsed.png",
-    "GravPlatformer/Library/PackageCache/com.unity.timeline@6b9e48457ddb/Samples~/Customization/Annotation/Editor/Resources/dark/timeline_annotation.png",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_Thickness.png",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_Normal.png",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@ca1c41d56d18/Samples~/ProductionReady/Environment/Details/Ferns/Textures/Fern_MaskMap.png",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg",
-    "GravPlatformer/Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-note-package.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-system-ports.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-system-output-trigger-port.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-system/nodes-input-action-change.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-manager/nodes-input-output-trigger.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-manager/nodes-note-manual.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-events/vs-tasks-note-end.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/input-manager/nodes-desc-end.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-c-nodes/vs-tasks-note-end.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-c-nodes/vs-open-graph-w-node.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-events/vs-right-click-project.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/custom-c-nodes/vs-ff-add-node.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-mip-bias-sample-mode-table.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-mip-mode-table.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-rgba-output-table.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-fragment-lod.md",
-    "GravPlatformer/Library/PackageCache/com.unity.shadergraph@41211273cdd1/Documentation~/snippets/sample-nodes/nodes-sample-errors.md",
-    "GravPlatformer/Library/PackageCache/com.unity.2d.psdimporter@0adcab25a8fd/Samples~/PSDImporterSamples/PSDImporterCustomPacker/README.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-with-graph-open-ff.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-visual-scripting-window.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-return-unity.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-save-script.md",
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-regen-node-library.md",
-
-
-    "GravPlatformer/Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/snippets/vs-open-state-menu.md",
-
-
+    "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs.meta",
+    "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs",
+    "GravPlatformer/Assets/Scripts/RocketControl.cs.meta",
+    "GravPlatformer/Assets/Scripts/RocketControl.cs",
+    "GravPlatformer/Assets/Scripts/PlayerMovement.cs.meta",
+    "GravPlatformer/Assets/Scripts/PlayerMovement.cs",
+    "GravPlatformer/Assets/Scripts/LaunchVelocityRandom.cs.meta",
+    "GravPlatformer/Assets/Scripts/LaunchVelocityRandom.cs",
+    "GravPlatformer/Assets/Scripts/LaunchVelocityManual.cs.meta",
+    "GravPlatformer/Assets/Prefabs/RocketPlaceholder1.prefab.meta",
+    "GravPlatformer/Assets/Prefabs/RocketPlaceholder1.prefab",
+    "Storyboarding/Level One Sketch.md"
   ]
 }
+=======
+  "active": "3a4f970ede674891",
+  "lastOpenFiles": []
+}
+>>>>>>> Joseph_test
