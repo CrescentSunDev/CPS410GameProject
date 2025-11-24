@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\menu\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\savesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\switchcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\menu\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\menu\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|c:\\users\\josep\\documents\\cps410gameproject\\gravplatformer\\assets\\scripts\\menu\\playerdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\playerdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\assets\\scripts\\highscoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\highscoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SwitchScene.cs",
-              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchScene.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchScene.cs",
-              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchScene.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SwitchScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\SaveSystem.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\SaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\SaveSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:30:02.877Z",
+              "WhenOpened": "2025-11-24T14:19:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:19:48.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\PlayerDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\PlayerDatabase.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\PlayerDatabase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\PlayerDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:19:45.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SwitchCanvas.cs",
-              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchCanvas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchCanvas.cs",
-              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\SwitchCanvas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SwitchCanvas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\Menu\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T14:17:10.202Z",
+              "WhenOpened": "2025-11-24T14:19:42.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\HighScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighScoreUI.cs",
+              "ToolTip": "C:\\Users\\Josep\\Documents\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\HighScoreUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighScoreUI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:25:53.098Z",
               "EditorCaption": ""
             }
           ]

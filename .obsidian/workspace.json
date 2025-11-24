@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "7f0366029fefd438",
     "type": "split",
     "children": [
@@ -9,6 +10,17 @@
         "children": [
           {
             "id": "b7c67303fc62f03b",
+=======
+    "id": "b244ad93c2d832dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a03a479d812663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4f970ede674891",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "release-notes",
@@ -25,6 +37,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "1ec8500085adfc96",
     "type": "split",
     "children": [
@@ -34,6 +47,17 @@
         "children": [
           {
             "id": "df365a44a2b4f1ea",
+=======
+    "id": "77eaf1ca9e3ebf0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b60536d8eb0b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7a8949fb096b24",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +70,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "0cd2c70bb3fd65be",
+=======
+            "id": "bc476566bbae5c0f",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +91,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "0acd8adc55ae5b94",
+=======
+            "id": "df39a1d6cc0fa93e",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,6 +111,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "645354b8593ca8a0",
     "type": "split",
     "children": [
@@ -88,11 +121,26 @@
         "children": [
           {
             "id": "aa5aa7b1e28dac92",
+=======
+    "id": "d12318f8b977ee37",
+    "type": "split",
+    "children": [
+      {
+        "id": "226aa065a3e48e1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b51afe38ada34d",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Storyboarding/Level One Sketch.md",
+=======
+                "file": "Storyboarding/Story/Main Story Document.md",
+>>>>>>> Joseph_test
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +150,45 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Level One Sketch"
             }
           },
           {
             "id": "45baa047923eca4d",
+=======
+              "title": "Backlinks for Main Story Document"
+            }
+          },
+          {
+            "id": "f6cbcd19f872fffd",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Storyboarding/Level One Sketch.md",
+=======
+                "file": "Storyboarding/Story/Main Story Document.md",
+>>>>>>> Joseph_test
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Level One Sketch"
             }
           },
           {
             "id": "841504e437332487",
+=======
+              "title": "Outgoing links from Main Story Document"
+            }
+          },
+          {
+            "id": "358dc858a4536f65",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +203,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "316fc60ddc0cd1e2",
+=======
+            "id": "95f50fcf9ef94a35",
+>>>>>>> Joseph_test
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Storyboarding/Level One Sketch.md",
+=======
+                "file": "Storyboarding/Story/Main Story Document.md",
+>>>>>>> Joseph_test
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Level One Sketch"
+=======
+              "title": "Outline of Main Story Document"
+>>>>>>> Joseph_test
             }
           }
         ]
@@ -171,6 +251,7 @@
       "obsidian-projects:Open projects": false
     }
   },
+<<<<<<< HEAD
   "active": "b7c67303fc62f03b",
   "lastOpenFiles": [
     "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs.meta",
@@ -187,3 +268,8 @@
     "Storyboarding/Level One Sketch.md"
   ]
 }
+=======
+  "active": "3a4f970ede674891",
+  "lastOpenFiles": []
+}
+>>>>>>> Joseph_test
