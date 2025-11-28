@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
     bool isFacingRight = true;
+    public Animator animator;
     public ParticleSystem smokeFX;
 
     [Header("Movement")]
@@ -63,6 +64,10 @@ public class PlayerMovement : MonoBehaviour
             Flip();
         }
 
+        animator.SetFloat("yVelocity", rb.linearVelocity.y);
+        animator.SetFloat("magnitude", rb.linearVelocity.magnitude);
+        animator.SetBool("isWallSliding", isWallSliding);
+
     }
 
     public void Jump(InputAction.CallbackContext context)
@@ -72,6 +77,7 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             JumpFX();
+            animator.SetTrigger("jump");
 
             // do not consume jump if player is wall sliding (intended for double jump)
             // ((may break and allow for infinite wall ascension if wall jumping is changed))
@@ -85,6 +91,7 @@ public class PlayerMovement : MonoBehaviour
         else if (context.canceled && rb.linearVelocity.y > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            animator.SetTrigger("jump");
             //jumpsRemaining--;
         }
 
@@ -93,6 +100,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isWallJumping = true;
             rb.linearVelocity = new Vector2(wallJumpDirection * wallJumpPower.x, wallJumpPower.y);
+            animator.SetTrigger("jump");
             JumpFX();
             wallJumpTimer = 0;
 
@@ -112,7 +120,6 @@ public class PlayerMovement : MonoBehaviour
     private void JumpFX()
     {
         smokeFX.Play();
-
     }
 
     private void Gravity()
