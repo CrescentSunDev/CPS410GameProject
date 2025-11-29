@@ -1,34 +1,22 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "7f0366029fefd438",
+    "id": "f62c046de2efee07",
     "type": "split",
     "children": [
       {
-        "id": "c4e6aabfcc789cae",
+        "id": "afb258c634da65d2",
         "type": "tabs",
         "children": [
           {
-            "id": "b7c67303fc62f03b",
-=======
-    "id": "b244ad93c2d832dc",
-    "type": "split",
-    "children": [
-      {
-        "id": "e8a03a479d812663",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a4f970ede674891",
->>>>>>> Joseph_test
+            "id": "d7cbd76b8150105f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Storyboarding/Level One Sketch.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "excalidraw-icon",
+              "title": "Level One Sketch"
             }
           }
         ]
@@ -37,27 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "1ec8500085adfc96",
+    "id": "3ef9eb8923071a21",
     "type": "split",
     "children": [
       {
-        "id": "c854ca3dc8b8aff1",
+        "id": "1b4e8f31ba884488",
         "type": "tabs",
         "children": [
           {
-            "id": "df365a44a2b4f1ea",
-=======
-    "id": "77eaf1ca9e3ebf0a",
-    "type": "split",
-    "children": [
-      {
-        "id": "e5b60536d8eb0b6c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c7a8949fb096b24",
->>>>>>> Joseph_test
+            "id": "27709625bfa1f3c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,11 +46,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "0cd2c70bb3fd65be",
-=======
-            "id": "bc476566bbae5c0f",
->>>>>>> Joseph_test
+            "id": "339b3ea5b9aacba5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,11 +63,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "0acd8adc55ae5b94",
-=======
-            "id": "df39a1d6cc0fa93e",
->>>>>>> Joseph_test
+            "id": "213786ef67069a20",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,36 +79,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "645354b8593ca8a0",
+    "id": "eadd1b5074df4188",
     "type": "split",
     "children": [
       {
-        "id": "f345c2137bf3d47d",
+        "id": "14196f301b991ded",
         "type": "tabs",
         "children": [
           {
-            "id": "aa5aa7b1e28dac92",
-=======
-    "id": "d12318f8b977ee37",
-    "type": "split",
-    "children": [
-      {
-        "id": "226aa065a3e48e1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08b51afe38ada34d",
->>>>>>> Joseph_test
+            "id": "640f3b280b18f975",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Storyboarding/Level One Sketch.md",
-=======
-                "file": "Storyboarding/Story/Main Story Document.md",
->>>>>>> Joseph_test
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,45 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
               "title": "Backlinks for Level One Sketch"
             }
           },
           {
-            "id": "45baa047923eca4d",
-=======
-              "title": "Backlinks for Main Story Document"
-            }
-          },
-          {
-            "id": "f6cbcd19f872fffd",
->>>>>>> Joseph_test
+            "id": "3d5ab04e58659bd8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Storyboarding/Level One Sketch.md",
-=======
-                "file": "Storyboarding/Story/Main Story Document.md",
->>>>>>> Joseph_test
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
               "title": "Outgoing links from Level One Sketch"
             }
           },
           {
-            "id": "841504e437332487",
-=======
-              "title": "Outgoing links from Main Story Document"
-            }
-          },
-          {
-            "id": "358dc858a4536f65",
->>>>>>> Joseph_test
+            "id": "a4f85b7507b00f01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -203,30 +135,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "316fc60ddc0cd1e2",
-=======
-            "id": "95f50fcf9ef94a35",
->>>>>>> Joseph_test
+            "id": "4795d5dea998d44f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Storyboarding/Level One Sketch.md",
-=======
-                "file": "Storyboarding/Story/Main Story Document.md",
->>>>>>> Joseph_test
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
               "title": "Outline of Level One Sketch"
-=======
-              "title": "Outline of Main Story Document"
->>>>>>> Joseph_test
             }
           }
         ]
@@ -251,25 +171,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-<<<<<<< HEAD
-  "active": "b7c67303fc62f03b",
+  "active": "d7cbd76b8150105f",
   "lastOpenFiles": [
-    "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs.meta",
-    "GravPlatformer/Assets/Scripts/RocketExhaustControls.cs",
-    "GravPlatformer/Assets/Scripts/RocketControl.cs.meta",
-    "GravPlatformer/Assets/Scripts/RocketControl.cs",
-    "GravPlatformer/Assets/Scripts/PlayerMovement.cs.meta",
-    "GravPlatformer/Assets/Scripts/PlayerMovement.cs",
-    "GravPlatformer/Assets/Scripts/LaunchVelocityRandom.cs.meta",
-    "GravPlatformer/Assets/Scripts/LaunchVelocityRandom.cs",
-    "GravPlatformer/Assets/Scripts/LaunchVelocityManual.cs.meta",
-    "GravPlatformer/Assets/Prefabs/RocketPlaceholder1.prefab.meta",
-    "GravPlatformer/Assets/Prefabs/RocketPlaceholder1.prefab",
-    "Storyboarding/Level One Sketch.md"
+    "GravPlatformer/Temp/ADB-Refresh544dabedddf3d284485607f14086e5aa",
+    "GravPlatformer/Temp/UnityTempFile-9ba25bf7e03e79142b4f92b9ce2cb1b2",
+    "GravPlatformer/Library/UndoStack.bin",
+    "GravPlatformer/Library/UndoData.bin",
+    "GravPlatformer/Temp/ProcessJobs",
+    "GravPlatformer/Temp/UnityTempFile-1e20ea108bb813442aedc8c57b5ade20",
+    "GravPlatformer/Temp/Burst/burst-aot3s7bqspz.8ng",
+    "GravPlatformer/Temp/Burst/burst-aota84nlpwy.m6l",
+    "GravPlatformer/Temp/Burst/burst-aot2kzxcl4a.yji",
+    "GravPlatformer/Temp/Burst/burst-aotqotludth.0gq",
+    "GravPlatformer/Temp/Burst/burst-aotobcd152f.e55"
   ]
 }
-=======
-  "active": "3a4f970ede674891",
-  "lastOpenFiles": []
-}
->>>>>>> Joseph_test
