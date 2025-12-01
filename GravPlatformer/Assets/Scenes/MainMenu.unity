@@ -979,7 +979,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2022547363}
   m_HandleRect: {fileID: 2022547362}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -3137,7 +3137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 082030a89a1be664ba06c2fdfb0e2703, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Control
-  SceneName: Level1
+  SceneName: LVL1_Ground
 --- !u!114 &944016622 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 279054717567648029, guid: 48d2d0db2b5bd8209a01aad034d2f5d7, type: 3}
