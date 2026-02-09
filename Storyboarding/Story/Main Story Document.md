@@ -16,7 +16,11 @@ On Luna, you travel through a warzone to get to the pristine looking capital. On
 
 
 ## Act 2 - Luna to Jupiter
+This act will be centered around the travels from luna out to jupiter. 
+### Mars
+Upon arriving on mars, you are greeted by massive underground farms and cities. The level layout would be something like tunnels leading through the ground (possibly dodge drill machines or minecarts/trains?) and letting out in an underground farm area. For ease of making platforming sections, we could make the farm a multilevel structure. The man you have to deliver to will be at the other end of the farm/cavern in a management building which seems to be the edge between the farm and the urban space/cavern. Possible hazards could be: farming combines, farmer drones(could swing a scythe around or something), yo\kels with shotguns and overalls, tunnel drills, leftover 'farmified' assets from previous levels. We could also reference futurama  by having bug cattle to use as moving platforms.
 
+Your Goal is to deliver an invoice for 'fertilizer' which is definitely not explosive material. 
 
 
 ## Act 3 - Jupiter to Pluto
