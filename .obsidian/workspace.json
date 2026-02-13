@@ -11,12 +11,14 @@
             "id": "d7cbd76b8150105f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Storyboarding/Level One Sketch.md"
+                "file": "Storyboarding/Story/Main Story Document.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Level One Sketch"
+              "icon": "lucide-file",
+              "title": "Main Story Document"
             }
           }
         ]
@@ -158,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,12 +170,15 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d7cbd76b8150105f",
+  "active": "27709625bfa1f3c6",
   "lastOpenFiles": [
+    "Illustration346 2.png",
+    "Storyboarding/Storyboarding Hub.md",
+    "Storyboarding/Level One Sketch.md",
+    "Storyboarding/Story/Main Story Document.md",
     "GravPlatformer/Temp/ADB-Refresh544dabedddf3d284485607f14086e5aa",
     "GravPlatformer/Temp/UnityTempFile-9ba25bf7e03e79142b4f92b9ce2cb1b2",
     "GravPlatformer/Library/UndoStack.bin",
@@ -182,7 +188,6 @@
     "GravPlatformer/Temp/Burst/burst-aot3s7bqspz.8ng",
     "GravPlatformer/Temp/Burst/burst-aota84nlpwy.m6l",
     "GravPlatformer/Temp/Burst/burst-aot2kzxcl4a.yji",
-    "GravPlatformer/Temp/Burst/burst-aotqotludth.0gq",
-    "GravPlatformer/Temp/Burst/burst-aotobcd152f.e55"
+    "GravPlatformer/Temp/Burst/burst-aotqotludth.0gq"
   ]
 }
