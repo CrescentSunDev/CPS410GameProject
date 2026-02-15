@@ -11,18 +11,29 @@ public class NavalMine : MonoBehaviour
 
     public ParticleSystem particleSmoke;
     public ParticleSystem particleFire;
-    public Renderer renderer;
+    private CircleCollider2D killzone;
+    public Renderer mineRenderer;
 
     //private ParticleSystem.EmissionModule emissionSmoke;
     //private ParticleSystem.EmissionModule emissionFire;
 
     private float emissionRate = 500f;
     public float explosionTime = 5f;
-
+    public float bobDistance = 0.5f;
+    public float bobSpeed = 1f;
+    private Vector2 startPosition;
+    private float phaseShift;
+    void Start()
+    {
+        killzone = GetComponentInParent<CircleCollider2D>();
+        startPosition = transform.position;
+        phaseShift = Random.Range(0f, 2 * Mathf.PI);
+    }
     void Update()
     {
 
         Explode();
+        Bob();
 
     }
 
@@ -42,6 +53,12 @@ public class NavalMine : MonoBehaviour
             explosionTriggered = true;
 
         }
+
+        if (other.CompareTag("Player") && explosionTriggered)
+        {
+            Debug.Log("Player in collision. Add code to kill player.");
+        }
+
     }
 
     private void Explode()
@@ -52,10 +69,13 @@ public class NavalMine : MonoBehaviour
 
         if (explosionTriggered)
         {
+            // create kill sphere
+            killzone.radius = 5f;
+
             // make the mine invisible when exploded
-            Color color = renderer.material.color;
+            Color color = mineRenderer.material.color;
             color.a = 0f;
-            renderer.material.color = color;
+            mineRenderer.material.color = color;
 
             emissionSmoke.rateOverTime = emissionRate;
             emissionFire.rateOverTime = emissionRate;
@@ -81,6 +101,15 @@ public class NavalMine : MonoBehaviour
         }
             //Destroy(gameObject);
 
+    }
+
+    private void Bob()
+    {
+        if(!explosionTriggered)
+        {
+            float yPos = Mathf.Sin(Time.time * bobSpeed + phaseShift) * bobDistance + startPosition.y;
+            transform.position = new Vector2(transform.position.x, yPos);
+        }
     }
 
 }
