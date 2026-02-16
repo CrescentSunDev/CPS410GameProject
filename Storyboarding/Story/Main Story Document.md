@@ -22,6 +22,8 @@ Upon arriving on mars, you are greeted by massive underground farms and cities. 
 
 Your Goal is to deliver an invoice for 'fertilizer' which is definitely not explosive material. 
 
+### Ganymede
+Your next stop takes you to Ganymede, Jupiter's largest moon and the center of the Jovian Dukedom, a squabbling set of petty lords and rich nobles that have made their own nation throughout Jupiter's moons. The company wants you to deliver pipes, metal bits and bobs, and crates full of gunpowder marked for construction usage. The recipient of this delivery is not a member of the Jovian Dukedom, but a peasant leader/foreman. The enemies/hazards in this area could be things like knights on robot horses, futuristic pikemen, and construction worksite hazards. The map itself should look future-medieval, a-la neon signs on tudor houses and castles (or similar but less distracing sci-fi greebles). The route the player takes should start on a landing pad, and route through a construction site that is currently being raided by the Jovian Dukedom. Once the packages are delivered/airdropped, the peasants will quickly assemble them into weapons and race offscreen, shooting in the direction of Dukedom forces (or just to the right/away from the player)
 
 ## Act 3 - Jupiter to Pluto
 
