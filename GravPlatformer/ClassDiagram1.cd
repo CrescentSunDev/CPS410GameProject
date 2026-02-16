@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerMovement">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQIEmcAEqIICAEGgAAGAAEAAUIAAACJESEFEAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\PlayerScripts\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraFollow">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScoreUI">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\HighScoreUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewPlayerUI">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\NewPlayerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerData">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\PlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerDatabase">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\PlayerDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerManager">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAABAAAAAAAAIAABAAACAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Menu\PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuitGame">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\QuitGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSystem">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\SaveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreboardManager">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIACAAAAAAAAAAAAABAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\ScoreboardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwitchCanvas">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAMAAAAAAgAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\SwitchCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\SwitchScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
