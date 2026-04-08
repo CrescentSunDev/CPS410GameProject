@@ -4,13 +4,13 @@ using UnityEngine.InputSystem;
 
 public class GaveOver : MonoBehaviour
 {
-    public GameObject pauseMenu;
+    public GameObject GameOverMenu;
     public string SceneName = "MainMenu";
     public bool isGameOver = false;
 
     void Start()
     {
-        pauseMenu.SetActive(false);
+        GameOverMenu.SetActive(false);
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
     }
@@ -41,8 +41,9 @@ public class GaveOver : MonoBehaviour
 
     void GameOver()
     {
-        pauseMenu.SetActive(true);
+        GameOverMenu.SetActive(true);
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
+        Destroy(gameObject);
     }
 }

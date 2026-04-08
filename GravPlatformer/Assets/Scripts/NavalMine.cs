@@ -54,10 +54,10 @@ public class NavalMine : MonoBehaviour
 
         }
 
-        if (other.CompareTag("Player") && explosionTriggered)
-        {
-            Debug.Log("Player in collision. Add code to kill player.");
-        }
+        //if (other.CompareTag("Player") && explosionTriggered)
+        //{
+         //   Debug.Log("Player in collision. Add code to kill player.");
+       // }
 
     }
 
