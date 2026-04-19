@@ -25,7 +25,7 @@ public class DeliverPackage : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.E) && isPlayerInside && !isDelivered) {
             Debug.Log("Package delivered.");
             isDelivered = true;
-            Instantiate(packagePrefab, new Vector2(transform.position.x, transform.position.y - 1), Quaternion.identity);
+            Instantiate(packagePrefab, new Vector2(transform.position.x, transform.position.y - 0.7f), Quaternion.identity);
             exitZone.SetActive(true);
         }
     }

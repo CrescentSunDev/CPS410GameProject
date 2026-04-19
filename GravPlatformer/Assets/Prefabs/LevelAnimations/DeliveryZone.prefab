@@ -230,6 +230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeliverPackage
   buttonPromptUI: {fileID: 6441434692034428923}
   packagePrefab: {fileID: 8202907241126047836, guid: 195e823b858fdd3479467a818bf8c66b, type: 3}
+  exitZone: {fileID: 5579063275219730393, guid: 0d8d2c918daf77946a796e7938abc72e, type: 3}
 --- !u!1 &6441434692034428923
 GameObject:
   m_ObjectHideFlags: 0
