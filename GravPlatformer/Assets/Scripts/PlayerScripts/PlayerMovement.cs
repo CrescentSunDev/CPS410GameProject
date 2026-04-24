@@ -78,6 +78,7 @@ public class PlayerMovement : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             JumpFX();
             animator.SetTrigger("jump");
+            SoundEffectManager.Play("PlayerJump");
 
             // do not consume jump if player is wall sliding (intended for double jump)
             // ((may break and allow for infinite wall ascension if wall jumping is changed))
@@ -103,6 +104,12 @@ public class PlayerMovement : MonoBehaviour
             animator.SetTrigger("jump");
             JumpFX();
             wallJumpTimer = 0;
+
+            // play sound effect for wall jumping if jumps are used
+            if(jumpsRemaining == 0)
+            {
+                SoundEffectManager.Play("PlayerJump");
+            }
 
             // flip character
             if (transform.localScale.x != wallJumpDirection)
