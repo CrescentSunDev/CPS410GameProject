@@ -62,6 +62,7 @@ MonoBehaviour:
       - rid: 6448318245640077315
       - rid: 6448318245640077316
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       - rid: 4011758900766310591
       - rid: 4011758900766310592
       - rid: 4011758900766310593
@@ -75,6 +76,14 @@ MonoBehaviour:
       - rid: 4011758946224177155
       - rid: 4011758946224177156
       - rid: 4011758946224177157
+>>>>>>> Stashed changes
+=======
+      - rid: 4011758946383560704
+      - rid: 4011758946383560705
+      - rid: 4011758946383560706
+      - rid: 4011758946383560707
+      - rid: 4011758946383560708
+      - rid: 4011758946383560709
 >>>>>>> Stashed changes
     m_RuntimeSettings:
       m_List: []
@@ -138,9 +147,13 @@ MonoBehaviour:
           - {r: 0.5, g: 0.5, b: 0.5, a: 1}
           - {r: 0, g: 0, b: 1, a: 1}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 4011758900766310591
 =======
     - rid: 4011758946224177152
+>>>>>>> Stashed changes
+=======
+    - rid: 4011758946383560704
 >>>>>>> Stashed changes
       type: {class: RayTracingRenderPipelineResources, ns: UnityEngine.Rendering.UnifiedRayTracing, asm: Unity.UnifiedRayTracing.Runtime}
       data:
@@ -155,18 +168,26 @@ MonoBehaviour:
         m_RestructureBvh: {fileID: 7200000, guid: 56641cb88dcb31a4398a4997ef7a7a8c, type: 3}
         m_Scatter: {fileID: 7200000, guid: a2eaeefdac4637a44b734e85b7be9186, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 4011758900766310592
 =======
     - rid: 4011758946224177153
+>>>>>>> Stashed changes
+=======
+    - rid: 4011758946383560705
 >>>>>>> Stashed changes
       type: {class: OnTilePostProcessResource, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
         m_UberPostShader: {fileID: 4800000, guid: fe4f13c1004a07d4ea1e30bfd0326d9e, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 4011758900766310593
 =======
     - rid: 4011758946224177154
+>>>>>>> Stashed changes
+=======
+    - rid: 4011758946383560706
 >>>>>>> Stashed changes
       type: {class: UniversalRenderPipelineRuntimeTerrainShaders, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -175,27 +196,39 @@ MonoBehaviour:
         m_TerrainDetailGrassBillboard: {fileID: 4800000, guid: 29868e73b638e48ca99a19ea58c48d90, type: 3}
         m_TerrainDetailGrass: {fileID: 4800000, guid: e507fdfead5ca47e8b9a768b51c291a1, type: 3}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 4011758900766310594
 =======
     - rid: 4011758946224177155
+>>>>>>> Stashed changes
+=======
+    - rid: 4011758946383560707
 >>>>>>> Stashed changes
       type: {class: URPReflectionProbeSettings, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         version: 1
         useReflectionProbeRotation: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 4011758900766310595
 =======
     - rid: 4011758946224177156
+>>>>>>> Stashed changes
+=======
+    - rid: 4011758946383560708
 >>>>>>> Stashed changes
       type: {class: URPTerrainShaderSetting, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
         m_IncludeTerrainShaders: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - rid: 4011758900766310596
 =======
     - rid: 4011758946224177157
+>>>>>>> Stashed changes
+=======
+    - rid: 4011758946383560709
 >>>>>>> Stashed changes
       type: {class: WorldRenderPipelineResources, ns: UnityEngine.PathTracing.Core, asm: Unity.PathTracing.Runtime}
       data:
