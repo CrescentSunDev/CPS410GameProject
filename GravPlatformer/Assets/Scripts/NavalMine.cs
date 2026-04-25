@@ -45,6 +45,7 @@ public class NavalMine : MonoBehaviour
             // restart the scene (level)
             //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             explosionTriggered = true;
+            SoundEffectManager.Play("Explosion");
 
         } else if(other.CompareTag("Environment") && triggerOnEnvironment && !explosionTriggered)
         {
@@ -54,10 +55,10 @@ public class NavalMine : MonoBehaviour
 
         }
 
-        //if (other.CompareTag("Player") && explosionTriggered)
-        //{
-         //   Debug.Log("Player in collision. Add code to kill player.");
-       // }
+        if (other.CompareTag("Player") && explosionTriggered)
+        {
+            Debug.Log("Player in collision. Add code to kill player.");
+        }
 
     }
 
