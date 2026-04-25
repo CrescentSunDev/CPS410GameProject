@@ -61,6 +61,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Menu\UIManager.cs" />
     <Compile Include="Assets\Scripts\Menu\SwitchCanvas.cs" />
     <Compile Include="Assets\Scripts\Menu\ScoreboardManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
@@ -76,6 +77,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Scripts\Menu\NewPlayerUI.cs" />
     <Compile Include="Assets\Scripts\SoundEffectLibrary.cs" />
+    <Compile Include="Assets\Scripts\ScoreScripts\Scoring.cs" />
     <Compile Include="Assets\Scripts\LaunchVelocityManual.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
