@@ -105,6 +105,7 @@
     <Compile Include="Assets\Scripts\NavalMine.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Scripts\ScoreScripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\BackgroundManager.cs" />
     <Compile Include="Assets\Scripts\ScoreScripts\Collectible.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />

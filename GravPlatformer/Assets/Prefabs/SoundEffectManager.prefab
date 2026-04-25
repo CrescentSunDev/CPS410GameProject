@@ -155,6 +155,9 @@ MonoBehaviour:
     - {fileID: 8300000, guid: e54dfc3d80b828048b76bcb620442170, type: 3}
     - {fileID: 8300000, guid: b4058688d010e38449f38a967a3a5c81, type: 3}
     - {fileID: 8300000, guid: 41e8897fe9db60349bd3cbb018b1e249, type: 3}
+  - name: Collectible
+    audioClips:
+    - {fileID: 8300000, guid: 9b05af391397e1942bb776a11eb941c1, type: 3}
 --- !u!114 &3082883498565957065
 MonoBehaviour:
   m_ObjectHideFlags: 0
