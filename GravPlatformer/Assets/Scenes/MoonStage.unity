@@ -33973,6 +33973,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: IntroManager
       objectReference: {fileID: 0}
+    - target: {fileID: 4057179656794049037, guid: a4fcebfeceb056d4097390c2d315c3e9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5296458512617656619, guid: a4fcebfeceb056d4097390c2d315c3e9, type: 3}
       propertyPath: player
       value: 
