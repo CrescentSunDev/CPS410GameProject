@@ -175,6 +175,10 @@ PrefabInstance:
       propertyPath: groundLayer.m_Bits
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 3166341351575817624, guid: b72caaa661a1c754dbe1678160292699, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
     - target: {fileID: 3836964596495423737, guid: b72caaa661a1c754dbe1678160292699, type: 3}
       propertyPath: m_Name
       value: Player
