@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|d:\\gitstuff\\cps410_tempdirectory\\cps410gameproject\\gravplatformer\\assets\\scripts\\playerscripts\\deliverpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\deliverpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|d:\\gitstuff\\cps410_tempdirectory\\cps410gameproject\\gravplatformer\\assets\\scripts\\playerscripts\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\assets\\scripts\\playerscripts\\fallingintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\fallingintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|d:\\gitstuff\\cps410_tempdirectory\\cps410gameproject\\gravplatformer\\assets\\scripts\\playerscripts\\deliverpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\deliverpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{551C6AED-C4C5-BF1F-B472-050A02B4E6FD}|Assembly-CSharp.csproj|D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\assets\\scripts\\navalmine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,43 +42,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LevelExit.cs",
               "DocumentMoniker": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\PlayerScripts\\LevelExit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScripts\\LevelExit.cs",
               "ToolTip": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\PlayerScripts\\LevelExit.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerScripts\\LevelExit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T15:16:11.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeliverPackage.cs",
+              "DocumentIndex": 0,
+              "Title": "Assets\\Scripts\\PlayerScripts\\DeliverPackage.cs",
               "DocumentMoniker": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\PlayerScripts\\DeliverPackage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScripts\\DeliverPackage.cs",
               "ToolTip": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\PlayerScripts\\DeliverPackage.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerScripts\\DeliverPackage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:16:33.229Z",
+              "WhenOpened": "2026-04-05T15:26:38.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FallingIntro.cs",
               "DocumentMoniker": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\PlayerScripts\\FallingIntro.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScripts\\FallingIntro.cs",
               "ToolTip": "D:\\GitStuff\\CPS410_TempDirectory\\CPS410GameProject\\GravPlatformer\\Assets\\Scripts\\PlayerScripts\\FallingIntro.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerScripts\\FallingIntro.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDsAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T15:16:04.755Z",
               "EditorCaption": ""

@@ -1,48 +1,13 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.InputSystem;
 
-public class GaveOver : MonoBehaviour
+public class GameOver : MonoBehaviour
 {
-    public GameObject pauseMenu;
-    public string SceneName = "MainMenu";
-    public bool isGameOver = false;
-
-    void Start()
-    {
-        pauseMenu.SetActive(false);
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
-    }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Kill")
+        if (collision.CompareTag("Kill"))
         {
-            GameOver();
+            gameObject.SetActive(false);
+            UIManager.Instance.TriggerGameOver();
         }
-    }
-
-    public void RestartGame()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
-
-    public void LoadMainMenu()
-    {
-        SceneManager.LoadScene(SceneName);
-    }
-
-    public void QuitGame()
-    {
-        Debug.Log("Quitting game...");
-        Application.Quit();
-    }
-
-    void GameOver()
-    {
-        pauseMenu.SetActive(true);
-        Cursor.lockState = CursorLockMode.None;
-        Cursor.visible = true;
     }
 }
