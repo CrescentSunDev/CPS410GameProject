@@ -23,13 +23,6 @@ public class Bomb : MonoBehaviour
             }
 
             other.gameObject.SetActive(false);
-
-            Invoke(nameof(RestartScene), restartDelay);
         }
-    }
-
-    private void RestartScene()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
